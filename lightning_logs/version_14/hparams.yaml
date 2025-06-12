@@ -1,0 +1,8 @@
+cat_dims:
+- 39
+dropout: 0.1
+embed_dim: 32
+lr: 0.001
+num_cont: 13
+num_heads: 4
+num_layers: 3
